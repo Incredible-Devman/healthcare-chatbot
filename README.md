@@ -8,7 +8,7 @@ SQLAlchemy==1.1.11
 
 ## Result
 <div align="center">
-  <img src="./screen.png">  
+  <img src="https://github.com/devman-AI/healthcare-chatbot/blob/master/screen.PNG">  
   <p>chatbot</p>
 </div>
 
